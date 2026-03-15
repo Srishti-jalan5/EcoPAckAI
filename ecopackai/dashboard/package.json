@@ -1,0 +1,25 @@
+{
+  "name": "ecopackai-dashboard",
+  "version": "1.0.0",
+  "description": "BI Dashboard for EcoPackAI - An AI-powered sustainable packaging recommendation system.",
+  "main": "src/main.jsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "chart.js": "^3.6.0",
+    "react-chartjs-2": "^3.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.27.1"
+  },
+  "homepage": "http://ecopackai-dashboard.com",
+  "license": "MIT"
+}
